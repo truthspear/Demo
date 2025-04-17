@@ -20,7 +20,7 @@ export const DUMMY_POSTS = [
     desc: "Starting an online business requires careful planning and execution.",
     authorID: 4,
   },
-  // Education category is empty
+  // Education category is about to be filled
 
   {
     id: 3,
@@ -38,7 +38,7 @@ export const DUMMY_POSTS = [
     desc: "Exploring the transition from classical to contemporary art movements.",
     authorID: 7,
   },
-  // Investment category is empty
+  // Investment category required to be prepared for next cycle and to be Imply
 
   {
     id: 5,
